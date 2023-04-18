@@ -1,5 +1,5 @@
 # matrix-effect
-LINK: effect-matrix-magenta.netlify.app
+LINK: https://effect-matrix-magenta.netlify.app
 <img src="https://github.com/danielcintori/matrix-effect/blob/main/Screenshot.png" />
 
 
